@@ -1,0 +1,10 @@
+C:\Users\Ertugrul\source\repos\Calculator_CSharp\Calculator_CSharp\bin\Debug\Calculator_CSharp.exe.config
+C:\Users\Ertugrul\source\repos\Calculator_CSharp\Calculator_CSharp\bin\Debug\Calculator_CSharp.exe
+C:\Users\Ertugrul\source\repos\Calculator_CSharp\Calculator_CSharp\bin\Debug\Calculator_CSharp.pdb
+C:\Users\Ertugrul\source\repos\Calculator_CSharp\Calculator_CSharp\obj\Debug\Calculator_CSharp.csproj.AssemblyReference.cache
+C:\Users\Ertugrul\source\repos\Calculator_CSharp\Calculator_CSharp\obj\Debug\Calculator_CSharp.Form1.resources
+C:\Users\Ertugrul\source\repos\Calculator_CSharp\Calculator_CSharp\obj\Debug\Calculator_CSharp.Properties.Resources.resources
+C:\Users\Ertugrul\source\repos\Calculator_CSharp\Calculator_CSharp\obj\Debug\Calculator_CSharp.csproj.GenerateResource.cache
+C:\Users\Ertugrul\source\repos\Calculator_CSharp\Calculator_CSharp\obj\Debug\Calculator_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul\source\repos\Calculator_CSharp\Calculator_CSharp\obj\Debug\Calculator_CSharp.exe
+C:\Users\Ertugrul\source\repos\Calculator_CSharp\Calculator_CSharp\obj\Debug\Calculator_CSharp.pdb
